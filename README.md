@@ -59,6 +59,6 @@ Níže je příklad predikce pro akcie **Apple (AAPL)**, kde model zohledňuje i
 
 Detailní rozbor metodologie, architektury modelu a výsledků naleznete v přiložené práci:
 
-[**Text práce (PDF)**](./graphs_text/diplomova_prace_jezek.pdf)
+[**Text práce (PDF)**](./text/diplomova_prace_jezek.pdf)
 
 ---
