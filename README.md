@@ -47,7 +47,7 @@ Projekt zahrnuje:
 
 ## Ukázka výsledku
 
-Níže je příklad predikce pro akcie **Apple (AAPL)**, kde model zohledňuje i míru pozornosti investorů (aktivita na Twitteru a sentiment v médiích):
+Níže je příklad predikce pro akcie **Apple (AAPL)**, kde model zohledňuje i míru pozornosti investorů (aktivita a sentiment):
 
 | Graf | Popis |
 |------|--------|
